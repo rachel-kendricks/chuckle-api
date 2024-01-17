@@ -1,0 +1,94 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": true
+    },
+    {
+      "id": 3,
+      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "told": false
+    },
+    {
+      "id": 5,
+      "text": "I failed math so many times at school, I can’t even count",
+      "told": true
+    },
+    {
+      "id": 6,
+      "text": "Why don't eggs tell each other secrets? Because they might crack up.",
+      "told": false
+    },
+    {
+      "id": 7,
+      "text": "I only know 25 letters of the alphabet. I don't know y.",
+      "told": false
+    },
+    {
+      "id": 8,
+      "text": "I told my wife she should embrace her mistakes. She gave me a hug.",
+      "told": true
+    },
+    {
+      "id": 10,
+      "text": "I used to play piano by ear, but now I use my hands and fingers.",
+      "told": true
+    },
+    {
+      "id": 11,
+      "text": "Why don't scientists trust atoms? Because they make up everything.",
+      "told": true
+    },
+    {
+      "id": 12,
+      "text": "Why don't scientists trust atoms? Because they make up everything.",
+      "told": true
+    },
+    {
+      "id": 13,
+      "text": "Why don't scientists trust atoms? Because they make up everything.",
+      "told": false
+    },
+    {
+      "id": 14,
+      "text": "What did the janitor say when he jumped out of the closet? Supplies!",
+      "told": false
+    },
+    {
+      "id": 15,
+      "text": "Parallel lines have so much in common. It's a shame they'll never meet.",
+      "told": true
+    },
+    {
+      "id": 16,
+      "text": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+      "told": false
+    },
+    {
+      "text": "How does a penguin build its house? Igloos it together!",
+      "told": false,
+      "id": 18
+    },
+    {
+      "id": 19,
+      "text": "Did you hear about the restaurant on the moon? Great food, no atmosphere.",
+      "told": false
+    },
+    {
+      "id": 20,
+      "text": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "told": true
+    },
+    {
+      "id": 22,
+      "text": "I told my computer I needed a break, and now it won't stop sending me vacation ads.",
+      "told": true
+    },
+    {
+      "text": "There was a guy who lost his left hand in an accident. But it's okay, he's all right now. ",
+      "told": false,
+      "id": 23
+    }
+  ]
+}
